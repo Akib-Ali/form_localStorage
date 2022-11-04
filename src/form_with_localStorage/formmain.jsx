@@ -55,6 +55,7 @@ export const FormMain=()=>{
 
     return(
         <div>
+        <h2>  Welcome My App</h2>
             <FormInput 
             inputvalue={inputvalue}
             setinputvalue={setinputvalue}
